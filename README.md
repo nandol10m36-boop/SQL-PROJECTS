@@ -1,4 +1,5 @@
-![Portfolio SQL](./Glciber.png)
+![Portfolio SQL](./glciber.png)
+
  ## 📂 Contenido del repositorio
 - [01_tablas_basicas.sql](./01_tablas_basicas.sql) → Tablas, INSERTs y consultas básicas.
 - [02_joins.sql](./02_joins.sql) → INNER JOIN, filtros y totales por cliente.
