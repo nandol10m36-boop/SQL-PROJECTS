@@ -6,3 +6,6 @@
 - [03_group_by.sql](./03_group_by.sql) → GROUP BY, HAVING y agregaciones.
 - [04_subqueries.sql](./04_subqueries.sql) → Subconsultas (IN/EXISTS, correlacionadas, derivadas).
 README: links a los .sql y descripciones
+<a href="./CV_Fernando_Vicente.pdf" download>
+  <img alt="Descargar CV" src="https://img.shields.io/badge/CV-PDF-blue">
+</a>
